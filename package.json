@@ -1,0 +1,23 @@
+{
+  "name": "jsdoc",
+  "version": "1.0.0",
+  "description": "JSDoc crash course",
+  "main": "main.js",
+  "dependencies": {
+    "jsdoc": "^3.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniilZinovyev/JSDoc-Crash-Course.git"
+  },
+  "author": "Daniil Zinoviev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniilZinovyev/JSDoc-Crash-Course/issues"
+  },
+  "homepage": "https://github.com/DaniilZinovyev/JSDoc-Crash-Course#readme"
+}
