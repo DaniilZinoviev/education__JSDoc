@@ -6,3 +6,5 @@ Repo with my results of learning JS Documenting syntax (JSDoc).
 
 ## How To Compile New Documentation?
 - Run in console "npm run doc"
+
+### Should be updated later...
